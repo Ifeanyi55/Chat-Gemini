@@ -1,0 +1,5 @@
+{
+  "name": "Gemini AI Chatbot Showcase",
+  "description": "A showcase of five visually appealing, mobile-optimized chatbot UIs that allow users to ask questions and receive responses from Gemini, powered by the gemini-2.5-flash model.",
+  "requestFramePermissions": []
+}
